@@ -1,0 +1,10 @@
+<%@page import="com.bean.Wishlist"%>
+<%
+  
+   int pid = Integer.parseInt(request.getParameter("pid"));
+   int user_id = Integer.parseInt(request.getParameter("user_id"));
+   Wishlist w = new Wishlist();
+   w.setPid(pid);
+   w.setUser_id(user_id);
+   
+%>

@@ -1,0 +1,26 @@
+package com.dao;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+
+import com.bean.Wishlist;
+import com.util.ElectroUtil;
+
+public class WishlistDao {
+	
+	public static void addToWishlist(Wishlist w)
+	{
+		try {
+	     		Connection conn = ElectroUtil.createConnection();
+	     		String sql="insert into wishlist (pid,user_id) values(?,?)";
+	     		PreparedStatement pst = conn.prepareStatement(sql);
+	     		pst.setInt(1, w.getPid());
+	     		pst.setInt(2, w.getUser_id());
+	     		pst.executeUpdate();
+		  	
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+}

@@ -1,0 +1,153 @@
+
+Nov 30, 2025 12:42:41.61 NEW SESSION
+Nov 30, 2025 12:42:41.64 [18032:3236:1130/124241.618:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Nov 30, 2025 12:42:41.75 Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 30, 2025 12:43:08.23 [18032:3236:1130/124308.236:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Nov 30, 2025 12:43:52.03 [18032:3236:1130/124352.032:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Nov 30, 2025 12:45:14.13 [18032:3236:1130/124514.134:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Nov 30, 2025 12:48:04.57 [18032:3236:1130/124804.577:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Nov 30, 2025 12:54:37.37 [18032:3236:1130/125437.369:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+
+Nov 30, 2025 17:35:27.91 NEW SESSION
+Nov 30, 2025 17:35:27.93 [4800:7372:1130/173527.910:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Nov 30, 2025 17:35:28.89 Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 30, 2025 17:35:51.97 [4800:7372:1130/173551.974:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Nov 30, 2025 17:35:58.41 [4800:29900:1130/173558.415:ERROR:components\signin\internal\identity_manager\account_info_fetcher.cc:65] OnGetTokenFailure: Connection failed (-106).
+Nov 30, 2025 17:36:41.35 [4800:7372:1130/173641.354:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Nov 30, 2025 17:38:20.27 [4800:7372:1130/173820.271:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Nov 30, 2025 17:41:11.83 [4800:7372:1130/174111.832:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Nov 30, 2025 17:47:30.29 [4800:7372:1130/174730.291:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+
+Nov 30, 2025 16:22:41.44 NEW SESSION
+Nov 30, 2025 16:22:41.47 [15428:1376:1130/162241.447:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Nov 30, 2025 16:22:41.69 Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 30, 2025 16:23:04.73 [15428:1376:1130/162304.733:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Nov 30, 2025 16:23:53.62 [15428:1376:1130/162353.622:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: QUOTA_EXCEEDED
+
+Nov 30, 2025 17:03:43.94 NEW SESSION
+Nov 30, 2025 17:03:43.96 [15264:8412:1130/170343.946:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Nov 30, 2025 17:03:44.05 Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 30, 2025 17:04:12.85 [15264:8412:1130/170412.858:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Nov 30, 2025 17:04:54.85 [15264:8412:1130/170454.853:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Nov 30, 2025 17:06:26.32 [15264:8412:1130/170626.321:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Nov 30, 2025 17:10:06.29 [15264:8412:1130/171006.290:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Nov 30, 2025 17:17:51.05 [15264:8412:1130/171751.052:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Nov 30, 2025 19:25:58.56 [15264:8412:1130/192558.562:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:483] ConnectionHandler failed with net error: -2
+Nov 30, 2025 19:59:01.59 [15264:8412:1130/195901.588:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:483] ConnectionHandler failed with net error: -2
+
+Nov 30, 2025 22:48:29.03 NEW SESSION
+Nov 30, 2025 22:48:29.06 [28044:18088:1130/224829.032:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Nov 30, 2025 22:48:30.62 Created TensorFlow Lite XNNPACK delegate for CPU.
+Nov 30, 2025 22:48:57.00 [28044:18088:1130/224857.004:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Nov 30, 2025 22:49:47.27 [28044:18088:1130/224947.273:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Nov 30, 2025 22:51:28.34 [28044:18088:1130/225128.340:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Nov 30, 2025 22:55:16.37 [28044:18088:1130/225516.376:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Nov 30, 2025 23:02:17.31 [28044:18088:1130/230217.315:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Nov 30, 2025 23:37:45.04 [28044:25148:1130/233745.039:ERROR:mojo\public\cpp\bindings\lib\interface_endpoint_client.cc:732] Message 5 rejected by interface blink.mojom.WidgetHost
+
+Dec 01, 2025 18:29:37.26 NEW SESSION
+Dec 01, 2025 18:29:37.28 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 01, 2025 18:29:37.45 [15300:25624:1201/182937.452:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 01, 2025 18:30:01.08 [15300:25624:1201/183001.082:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 01, 2025 18:30:54.82 [15300:25624:1201/183054.825:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+
+Dec 02, 2025 21:22:14.61 NEW SESSION
+Dec 02, 2025 21:22:14.62 [21776:1360:1202/212214.608:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 02, 2025 21:22:18.87 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 02, 2025 21:22:40.67 [21776:1360:1202/212240.676:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 02, 2025 21:23:24.12 [21776:1360:1202/212324.120:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 02, 2025 21:25:18.76 [21776:1360:1202/212518.760:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 02, 2025 21:28:02.01 [21776:1360:1202/212802.013:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 02, 2025 21:33:40.83 [21776:1360:1202/213340.835:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 02, 2025 22:57:07.15 [21776:1360:1202/225707.151:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:483] ConnectionHandler failed with net error: -2
+Dec 02, 2025 22:57:07.16 [21776:1360:1202/225707.168:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Dec 02, 2025 22:57:09.36 [21776:1360:1202/225709.367:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Dec 02, 2025 22:57:22.84 [21776:15488:1202/225722.840:ERROR:components\device_event_log\device_event_log_impl.cc:198] [22:57:22.805] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Dec 02, 2025 22:57:31.26 [21776:1360:1202/225731.265:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Dec 02, 2025 22:57:35.28 [21776:1360:1202/225735.288:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Dec 02, 2025 22:57:35.52 [21776:1360:1202/225735.521:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Dec 02, 2025 23:02:19.68 [21776:1360:1202/230219.689:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:483] ConnectionHandler failed with net error: -2
+Dec 02, 2025 23:02:21.68 [21776:1360:1202/230221.680:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Dec 02, 2025 23:02:40.81 [21776:1360:1202/230240.811:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Dec 02, 2025 23:02:43.92 [21776:1360:1202/230243.921:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Dec 02, 2025 23:02:48.61 [21776:1360:1202/230248.614:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Dec 02, 2025 23:02:54.18 [21776:1360:1202/230254.188:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Dec 02, 2025 23:03:04.28 [21776:1360:1202/230304.281:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+
+Dec 04, 2025 16:05:25.41 NEW SESSION
+Dec 04, 2025 16:05:25.42 [27696:28208:1204/160525.411:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Dec 04, 2025 16:05:25.45 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 04, 2025 16:05:53.76 [27696:28208:1204/160553.766:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Dec 04, 2025 16:06:41.70 [27696:28208:1204/160641.705:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Dec 04, 2025 16:08:12.07 [27696:28208:1204/160812.070:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+
+Dec 07, 2025 22:59:51.73 NEW SESSION
+Dec 07, 2025 22:59:51.75 Opening in existing browser session.
+Dec 07, 2025 22:59:56.73 [21252:27820:1207/225956.737:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 07, 2025 22:59:57.45 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 07, 2025 23:00:21.79 [21252:27820:1207/230021.794:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 07, 2025 23:01:19.59 [21252:27820:1207/230119.598:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 07, 2025 23:03:07.26 [21252:27820:1207/230307.260:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 07, 2025 23:06:23.60 [21252:27820:1207/230623.607:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 07, 2025 23:10:36.46 [21252:6664:1207/231036.462:ERROR:mojo\public\cpp\bindings\lib\interface_endpoint_client.cc:732] Message 1 rejected by interface blink.mojom.WidgetHost
+Dec 07, 2025 23:13:02.96 [21252:27820:1207/231302.959:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 08, 2025 24:11:12.65 [21252:27820:1208/001112.650:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:483] ConnectionHandler failed with net error: -2
+
+Dec 08, 2025 17:09:20.23 NEW SESSION
+Dec 08, 2025 17:09:20.25 [21692:3136:1208/170920.233:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 08, 2025 17:09:21.19 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 08, 2025 17:09:47.48 [21692:3136:1208/170947.482:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 08, 2025 17:10:34.60 [21692:3136:1208/171034.601:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 08, 2025 17:12:12.78 [21692:3136:1208/171212.788:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 08, 2025 17:15:35.54 [21692:3136:1208/171535.542:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 08, 2025 17:20:20.11 [21692:23104:1208/172020.112:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:20.55 [21692:23104:1208/172020.558:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:20.67 [21692:23104:1208/172020.676:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:20.90 [21692:23104:1208/172020.909:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:21.27 [21692:23104:1208/172021.273:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:21.38 [21692:23104:1208/172021.381:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:21.48 [21692:23104:1208/172021.486:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:21.69 [21692:23104:1208/172021.695:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:22.06 [21692:23104:1208/172022.068:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:22.57 [21692:23104:1208/172022.575:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:22.95 [21692:23104:1208/172022.955:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:23.06 [21692:23104:1208/172023.065:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:23.18 [21692:23104:1208/172023.183:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:23.31 [21692:23104:1208/172023.314:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:23.43 [21692:23104:1208/172023.432:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:23.55 [21692:23104:1208/172023.549:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:23.69 [21692:23104:1208/172023.691:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:23.80 [21692:23104:1208/172023.802:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:23.93 [21692:23104:1208/172023.931:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:24.03 [21692:23104:1208/172024.036:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:24.14 [21692:23104:1208/172024.147:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:24.25 [21692:23104:1208/172024.252:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:24.37 [21692:23104:1208/172024.372:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:24.48 [21692:23104:1208/172024.481:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:24.58 [21692:23104:1208/172024.587:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:24.69 [21692:23104:1208/172024.697:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:24.81 [21692:23104:1208/172024.814:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:24.94 [21692:23104:1208/172024.942:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:25.04 [21692:23104:1208/172025.049:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:25.15 [21692:23104:1208/172025.149:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:25.25 [21692:23104:1208/172025.253:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:25.36 [21692:23104:1208/172025.366:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:25.48 [21692:23104:1208/172025.487:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:25.59 [21692:23104:1208/172025.597:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:25.73 [21692:23104:1208/172025.732:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:25.84 [21692:23104:1208/172025.849:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:25.96 [21692:23104:1208/172025.966:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:26.08 [21692:23104:1208/172026.083:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:26.19 [21692:23104:1208/172026.196:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:26.34 [21692:23104:1208/172026.339:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:27.35 [21692:23104:1208/172027.357:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:20:27.50 [21692:23104:1208/172027.499:ERROR:components\page_load_metrics\browser\page_load_metrics_update_dispatcher.cc:179] Invalid first_paint 1.647 s for first_image_paint 1.632 s
+Dec 08, 2025 17:23:15.42 [21692:3136:1208/172315.424:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+
+Dec 29, 2025 09:54:22.52 NEW SESSION
+Dec 29, 2025 09:54:22.57 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 29, 2025 09:54:25.25 [21516:27392:1229/095425.256:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Dec 29, 2025 09:54:46.85 [21516:27392:1229/095446.858:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Dec 29, 2025 09:55:41.77 [21516:27392:1229/095541.776:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Dec 29, 2025 09:57:04.52 [21516:27392:1229/095704.528:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Dec 29, 2025 10:00:29.15 [21516:27392:1229/100029.150:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
