@@ -1,0 +1,59 @@
+package com.spring.Coaching.Management.Controller;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.spring.Coaching.Management.Entity.Teacher;
+import com.spring.Coaching.Management.Service.TeacherService;
+
+@RestController
+@RequestMapping("/api/teacher")
+public class TeacherController {
+
+    private final TeacherService teacherService;
+
+    public TeacherController(TeacherService teacherService) {
+        this.teacherService = teacherService;
+    }
+
+    // CREATE
+    @PostMapping
+    public Teacher createTeacher(@RequestBody Teacher teacher) {
+        return teacherService.saveTeacher(teacher);
+    }
+
+    // READ ALL
+    @GetMapping
+    public List<Teacher> getAllTeachers() {
+        return teacherService.getAllTeachers();
+    }
+
+    // READ BY ID
+    @GetMapping("/{id}")
+    public Teacher getTeacherById(@PathVariable Long id) {
+        return teacherService.getTeacherById(id);
+    }
+
+    // UPDATE
+    @PutMapping("/{id}")
+    public Teacher updateTeacher(
+            @PathVariable Long id,
+            @RequestBody Teacher teacher) {
+        return teacherService.updateTeacher(id, teacher);
+    }
+
+    // DELETE
+    @DeleteMapping("/{id}")
+    public String deleteTeacher(@PathVariable Long id) {
+        teacherService.deleteTeacher(id);
+        return "Teacher deleted successfully";
+    }
+}

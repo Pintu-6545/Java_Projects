@@ -1,0 +1,10 @@
+package com.spring.Coaching.Management.Repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.spring.Coaching.Management.Entity.Student;
+
+public interface StudentRepository extends JpaRepository<Student, Long>{
+
+	Student findByUserId(Long userId);
+}

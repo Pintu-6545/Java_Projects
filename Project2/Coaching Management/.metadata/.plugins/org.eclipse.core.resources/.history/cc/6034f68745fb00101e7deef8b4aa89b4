@@ -1,0 +1,11 @@
+package com.spring.Coaching.Management.Repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.spring.Coaching.Management.Entity.Teacher;
+
+public interface TeacherRepository extends JpaRepository<Teacher, Long> {
+
+	// For teacher dashboard after login
+    Teacher findByUserId(Long userId);
+}

@@ -1,0 +1,8 @@
+package com.spring.Coaching.Management.Entity;
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class Role {
+
+}
